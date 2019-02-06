@@ -1,2 +1,2 @@
-# node-graphql
-node and graphql
+# nestjs-graphql
+nestjs and graphQL application
